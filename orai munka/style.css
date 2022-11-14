@@ -8,6 +8,18 @@ div{
 }
 .shape1-4{
     background-color: darkturquoise;
+    border: 2px;
+}
+.text1-4{
+    color: white;
+}
+
+#element-one{
+    background-color: black;
+}
+.paros{
+background-color: 2px;
+
 }
 
 button{
