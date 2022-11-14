@@ -1,0 +1,15 @@
+div{
+
+    background-color:red;
+    color: black;
+    font-size: xx-large;
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.shape1-4{
+    background-color: darkturquoise;
+}
+
+button{
+    background-color: deepskyblue;
+}
